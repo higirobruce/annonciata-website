@@ -859,6 +859,7 @@ button:focus {
 
 .welcome_text p {
     max-width: 495px;
+    width: 495px;
     line-height: 24px;
     font-family: "Poppins", sans-serif;
     font-size: 14px;
