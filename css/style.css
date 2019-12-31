@@ -2956,7 +2956,8 @@ b,
 sup,
 sub,
 del {
-    color: #f8b600;
+    /* color: #f8b600; */
+    color: #ea2c58;
 }
 
 h1 {
